@@ -1,0 +1,12 @@
+
+spring:
+  datasource:
+    name: catpure_cow  #数据库名
+    url: jdbc:mysql://localhost:3306/catpure_cow #url
+    username: root  #用户名
+    password: 123456  #密码
+    driver-class-name: com.mysql.cj.jdbc.Driver  #数据库链接驱动
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml  #配置映射文件
+  type-aliases-package: com.example.demo.bean #配置实体类

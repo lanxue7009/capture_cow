@@ -1,0 +1,10 @@
+com\example\demo\DemoApplication.class
+com\example\demo\bean\User.class
+com\example\demo\bean\Info.class
+com\example\demo\controller\helloController.class
+com\example\demo\service\IUserService.class
+com\example\demo\serviceimpl\UserService.class
+com\example\demo\bean\Data.class
+com\example\demo\controller\UserController.class
+com\example\demo\mapper\UserMapper.class
+com\example\demo\util\OkHttpClient.class
